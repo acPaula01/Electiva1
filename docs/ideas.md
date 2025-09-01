@@ -5,7 +5,6 @@ Violeta Vibes
 Aplicación móvil para una tienda de ropa que ofrece una experiencia de compra personalizada. Permite filtrar productos según tus preferencias (talla, color, estilo), agregar artículos a un carrito de compras, realizar pagos de forma segura y seguir el estado de tus pedidos.
 
 Aplicaciones similares:
-
 - Shein 
 - Dafiti
 - Zaful
@@ -19,7 +18,6 @@ Registro de peso, alimentación y comportamientos.
 Comunidad para adopciones y consejos.
 
 Aplicaciones similares:
-
 - PetLife
 - PetValet
 - Petlovers
