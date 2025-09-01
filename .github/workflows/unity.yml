@@ -1,11 +1,6 @@
 name: Unity CI
 on: 
   workflow_dispatch:
-  # push:
-  #   branches: [ "main" ]
-  # pull_request:
-  #   branches: [ "main" ]
-  
  push:
     paths-ignore:
       - '**/*.md'
