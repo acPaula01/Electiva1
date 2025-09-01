@@ -1,21 +1,25 @@
 # Ideas de proyecto
 
 ## Idea 1
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Violeta Vibes
+Aplicación móvil para una tienda de ropa que ofrece una experiencia de compra personalizada. Permite filtrar productos según tus preferencias (talla, color, estilo), agregar artículos a un carrito de compras, realizar pagos de forma segura y seguir el estado de tus pedidos.
 
 Aplicaciones similares:
 
-- ...
-- ...
-- ...
+- Shein 
+- Dafiti
+- Zaful
+- Koaj 
 
 ## Idea 2
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Agenda y cuidado de mascotas
+Aplicación móvil para: 
+agenda de vacunas, desparasitaciones y citas con el veterinario.
+Registro de peso, alimentación y comportamientos.
+Comunidad para adopciones y consejos.
 
 Aplicaciones similares:
 
-- ...
-- ...
-- ...
+- PetLife
+- PetValet
+- Petlovers
