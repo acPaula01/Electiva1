@@ -34,6 +34,6 @@ El objetivo principal es construir una aplicación móvil que permita a los usua
 
 ## 👤 Autor
 
-- **Nombre:** [Paula Alejandra Adarme Castañeda]  
+- **Nombre:** Paula Alejandra Adarme Castañeda
 
 ---
